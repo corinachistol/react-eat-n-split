@@ -1,3 +1,5 @@
+
+![image](https://github.com/corinachistol/react-eat-n-split/assets/115491975/57da9054-1fde-46ea-8c4d-1eb173fc61b0)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
